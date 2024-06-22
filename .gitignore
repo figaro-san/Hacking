@@ -1,0 +1,8 @@
+*
+!*/
+!*.*
+*.o
+!Makefile
+
+.gdb_history
+downloads/
